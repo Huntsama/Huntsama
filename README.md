@@ -20,11 +20,9 @@
 ![Huntsama's github stats](https://github-readme-stats.vercel.app/api?username=Huntsama&show_icons=true&theme=algolia)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Huntsama&langs_count=8&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=Huntsama)](https://github.com/Huntsama)
 
 ### Connect with me:
 
-[<img align="left" alt="Huntsama | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />](mailto:jawadshaissah@gmail.com)
 [<img align="left" alt="Huntsama | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/jawad-shaissah/)
 
 
