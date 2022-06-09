@@ -12,6 +12,7 @@
 - [Journapp](https://jwds.me/journapp/)
 - [Wallpapp](https://play.google.com/store/apps/details?id=com.app.wallpapp)
 
+---
 
 ![Huntsama's github stats](https://github-readme-stats.vercel.app/api?username=Huntsama&show_icons=true&theme=algolia)<br>
 
