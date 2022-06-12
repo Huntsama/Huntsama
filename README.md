@@ -5,13 +5,14 @@
 -  Wokring with React
 -  Always learning 
 
-### 📕 Projects
+### 📕 Side Projects
 
 
 
-- [Journapp](https://jwds.me/journapp/)
+
 - [Wallpapp](https://play.google.com/store/apps/details?id=com.app.wallpapp)
-
+- [Journapp](https://jwds.me/journapp/)
+- [Weatherapp](https://jwds.me/weatherapp/)
 ---
 
 ![Huntsama's github stats](https://github-readme-stats.vercel.app/api?username=Huntsama&show_icons=true&theme=algolia)<br>
