@@ -1,4 +1,4 @@
-### Heey, I am jawad 👋
+### Heey, I am Jawad 👋
 
 ## I'm currently working as a web developer
 
