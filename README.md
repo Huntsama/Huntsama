@@ -1,9 +1,6 @@
 ### Heey, I am Jawad 👋
 
-## I'm currently working as a Mobile developer
-
--  Wokring with React Native
--  Always learning 
+## I'm currently a computer science student at Vrije Universiteit Brussel
 
 ### 📕 Crumbs
 
