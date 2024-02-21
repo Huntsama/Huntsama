@@ -7,7 +7,6 @@
 
 
 
-- [Wallpapp](https://play.google.com/store/apps/details?id=com.app.wallpapp)
 - [Journapp](https://jwds.me/journapp/)
 - [Weatherapp](https://jwds.me/weatherapp/)
 ---
