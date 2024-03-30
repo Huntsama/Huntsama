@@ -40,7 +40,7 @@
 <!-- Backend Technologies -->
 <div>
     <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb&perline=10" alt="Backend Technologies" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,fastapi&perline=10" alt="Backend Technologies" />
 </div>
 
 <!-- Database and Cloud Services -->
