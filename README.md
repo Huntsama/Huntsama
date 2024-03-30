@@ -21,7 +21,7 @@
 <!-- Programming Languages -->
 <div>
     <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss,nodejs,python,dart,c,cpp,cs&perline=10"
+    <img src="https://skillicons.dev/icons?i=javascript,react,tailwindcss,nodejs,python,dart,c,cpp,cs&perline=5"
         alt="Programming Languages" />
 </div>
 
