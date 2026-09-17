@@ -1,67 +1,53 @@
-<!-- Introduction Section -->
-<div>
-    <h1>Heey, I am Jawad 👋</h1>
-    <p>I'm currently a computer science student at Vrije Universiteit Brussel</p>
-</div>
+<h1>Hey, I'm Jawad 👋</h1>
 
-<!-- Projects Section -->
-<div>
-    <h2>📕 Crumbs</h2>
-    <a href="https://jwds.me/journapp/">Journapp</a><br>
-    <a href="https://jwds.me/weatherapp/">Weatherapp</a>
-</div>
+<p>
+Software &amp; AI engineer based in Brussels. I build machine-learning systems and the
+applications around them — from deep-learning models to the mobile and web products that ship them.
+</p>
 
+<p>
+Currently finishing an <strong>MSc in Applied Computer Science</strong> at the
+<strong>Vrije Universiteit Brussel</strong>, where my thesis builds a deep-learning emulator
+of a physical urban-climate model: downscaling coarse ERA5 reanalysis into
+<strong>100 m air-temperature maps</strong> for European cities, to capture the urban heat
+island in seconds instead of hours of simulation.
+</p>
 
+### 🔭 What I work on
 
+- **Deep learning** — residual U-Nets for climate downscaling, super-resolution (EDSR), few-shot learning with Siamese networks
+- **AI agents & LLM systems** — agentic pipelines with tool use, structured outputs and evaluation
+- **Geospatial & remote sensing** — ERA5, Sentinel-2, CORINE land cover, xarray/rasterio pipelines
+- **Full-stack & mobile** — React, Node.js, Flutter, React Native, TypeScript
 
-<!-- Technologies Section Expanded -->
-<h2>Technologies that i Know and work with👨🏻‍💻</h2>
+### 🛠️ Tech
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-<!-- Programming Languages -->
-<div>
-    <h3>Languages</h3>
-    <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,python,dart,cpp,cs&perline=5"
-        alt="Programming Languages" />
-</div>
+### 📌 Selected work
 
-<!-- Mobile Development -->
-<div>
-    <h3>Mobile Development</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,react&perline=2" alt="Mobile Development Technologies" />
-</div>
+| Project | What it is |
+|---|---|
+| [Weather Forecasting with ML](https://github.com/Huntsama/Weather_forecast) | Improving local temperature prediction from ensemble forecasts and ground-station data |
+| [CoAP over DTLS](https://github.com/Huntsama/COAP-and-DTLS) · [Contiki DTLS](https://github.com/Huntsama/contiki-dtls) | Secure messaging for constrained IoT devices |
+| [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) | Neighbourhood platform in Java with custom data structures and Dijkstra routing |
+| [notlightbloo](https://github.com/Huntsama/notlightbloo) | Image-hosting platform — JWT auth, REST API, MySQL, React/Tailwind |
+| [The Hero's Choice](https://github.com/Huntsama/The-Hero-s-Choice) | Text adventure engine in Java with branching narrative and inventory |
 
-<!-- Frontend Technologies -->
-<div>
-    <h3>Frontend</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&perline=5" alt="Frontend Technologies" />
-</div>
+### 🌍 Elsewhere
 
-<!-- Backend Technologies -->
-<div>
-    <h3>Backend</h3>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql,mongodb,fastapi&perline=10" alt="Backend Technologies" />
-</div>
+**[jwds.me](https://jwds.me)** — portfolio and writing
 
-<!-- Database and Cloud Services -->
-<div>
-    <h3>Database & Cloud Services</h3>
-    <img src="https://skillicons.dev/icons?i=firebase,gcp&perline=10" alt="Database and Cloud Services" />
-</div>
-
-<!-- Tools and Other Technologies -->
-<div>
-    <h3>Tools and Other</h3>
-    <img src="https://skillicons.dev/icons?i=git,vscode,npm,yarn,androidstudio,anaconda,linux&perline=10"
-        alt="Tools and Other Technologies" />
-</div>
-<!-- Connect with Me Section -->
-<div >
-    <h2>Connect With Me🤝</h2>
-    <a href="https://www.linkedin.com/in/jawad-shaissah/" target="blank">
-      <img src="https://skillicons.dev/icons?i=linkedin&perline=5" alt="linkedin" />
-    </a>
-    <a href="mailto:jawadshaissah@gmail.com" target="blank">
-      <img src="https://skillicons.dev/icons?i=gmail&perline=5" alt="gmail" />
-    </a>
-</div>
+<sub>Languages: Arabic (native) · French (bilingual) · English (full professional)</sub>
