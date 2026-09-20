@@ -67,7 +67,6 @@ island in seconds instead of hours of simulation.
 | Few-shot learning on MiniImageNet | Siamese networks with contrastive and triplet loss for few-shot image classification (PyTorch) |
 | Credit-card fraud detection | Machine-learning models on a highly imbalanced transaction dataset (scikit-learn) |
 | [Weather Forecasting with ML](https://github.com/Huntsama/Weather_forecast) | Linear regression, random forests and neural networks on ensemble forecasts and ground-station data |
-| [Agents Office](https://github.com/Huntsama/agents-office) | 3D isometric office where AI agents do real work on your own Claude login |
 | [CoAP over DTLS](https://github.com/Huntsama/COAP-and-DTLS) · [Contiki DTLS](https://github.com/Huntsama/contiki-dtls) | Secure messaging for constrained IoT devices |
 | [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) | Neighbourhood platform in Java with custom data structures and Dijkstra routing |
 | [notlightbloo](https://github.com/Huntsama/notlightbloo) | Image-hosting platform: JWT auth, REST API, MySQL, React/Tailwind |
