@@ -6,8 +6,8 @@ applications around them: from deep-learning models to the mobile and web produc
 </p>
 
 <p>
-Currently finishing an <strong>MSc in Applied Computer Science</strong> at the
-<strong>Vrije Universiteit Brussel</strong>, where my thesis builds a deep-learning emulator
+I graduated in 2026 with an <strong>MSc in Applied Computer Science</strong> from the
+<strong>Vrije Universiteit Brussel</strong>, where my thesis built a deep-learning emulator
 of a physical urban-climate model: downscaling coarse ERA5 reanalysis into
 <strong>100 m air-temperature maps</strong> for European cities, to capture the urban heat
 island in seconds instead of hours of simulation.
