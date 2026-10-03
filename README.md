@@ -40,7 +40,7 @@ Deep learning in PyTorch · computer vision · geospatial data (ERA5, xarray) ·
 | 🌍 | Urban-climate emulator (MSc thesis) | Residual U-Net downscaling ERA5 to 100 m air temperature for European cities |
 | 🔍 | Image super-resolution (EDSR) | x4 super-resolution on DIV2K, +2.32 dB PSNR over bicubic |
 | ⛅ | [Weather forecasting with ML](https://github.com/Huntsama/Weather_forecast) | Regression, random forests and neural networks on forecast and station data |
-| 🔐 | [CoAP over DTLS](https://github.com/Huntsama/COAP-and-DTLS) | Secure messaging for constrained IoT devices |
+| 🔐 | [CoAP over DTLS](https://github.com/Huntsama/contiki-dtls) | Secure messaging for constrained IoT devices |
 | 🏘️ | [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) | Neighbourhood platform in Java with Dijkstra routing |
 | 🖼️ | [notlightbloo](https://github.com/Huntsama/notlightbloo) | Image hosting: JWT auth, REST API, MySQL, React |
 
