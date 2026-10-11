@@ -37,7 +37,7 @@ Deep learning in PyTorch · computer vision · geospatial data (ERA5, xarray) ·
 
 | | Project | What it is |
 |---|---|---|
-| 🚋 | [Brussels Live](https://github.com/Huntsama/brussels-live) · [live](https://huntsama.github.io/brussels-live/) | Real-time map of every STIB vehicle, positions estimated without GPS |
+| 🚋 | [Brussels Live](https://github.com/Huntsama/brussels-live) · [live](https://live.jwds.me) | Real-time map of every STIB vehicle, positions estimated without GPS |
 | 🏞️ | [Brussels Lakehouse](https://github.com/Huntsama/brussels-lakehouse) · [live](https://lakehouse.jwds.me) | Azure lakehouse: transit, air and grid data every 5 min, dbt + DuckDB |
 | 🌍 | Urban-climate emulator (MSc thesis) | Residual U-Net downscaling ERA5 to 100 m air temperature for European cities |
 | 🔍 | Image super-resolution (EDSR) | x4 super-resolution on DIV2K, +2.32 dB PSNR over bicubic |
