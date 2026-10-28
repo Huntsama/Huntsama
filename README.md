@@ -16,13 +16,11 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://live.jwds.me"><img src="https://raw.githubusercontent.com/Huntsama/brussels-live/main/docs/map.jpg" alt="Brussels Live"/></a><br/>
       <b><a href="https://github.com/Huntsama/brussels-live">Brussels Live</a></b> · every STIB metro, tram and bus moving in real time, from a feed with no GPS. Positions estimated and scored against recorded data: <b>median error 15 m</b>.<br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/deck.gl-WebGL-333" alt="deck.gl"/> <img src="https://img.shields.io/badge/MapLibre-396CB2" alt="MapLibre"/> <img src="https://img.shields.io/badge/GTFS-open_data-555" alt="GTFS"/><br/>
       <a href="https://live.jwds.me"><img src="https://img.shields.io/badge/▶_Open_the_live_map-10b981?style=for-the-badge" alt="Open the live map"/></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://lakehouse.jwds.me"><img src="https://raw.githubusercontent.com/Huntsama/brussels-lakehouse/main/docs/dashboard.png" alt="Brussels Lakehouse"/></a><br/>
       <b><a href="https://github.com/Huntsama/brussels-lakehouse">Brussels Lakehouse</a></b> · Azure lakehouse recording transit, air and grid data every 5 minutes; bronze → silver → gold with <b>27 data tests</b>. Is STIB on time?<br/>
       <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" alt="dbt"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" alt="DuckDB"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/><br/>
       <a href="https://lakehouse.jwds.me"><img src="https://img.shields.io/badge/▶_Open_the_dashboard-10b981?style=for-the-badge" alt="Open the dashboard"/></a>
@@ -35,7 +33,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Huntsama/urbclim-emulator"><img src="https://raw.githubusercontent.com/Huntsama/urbclim-emulator/main/docs/figures/copenhagen_2017-06-08_20utc.png" alt="Urban climate emulator"/></a><br/>
       <b><a href="https://github.com/Huntsama/urbclim-emulator">Urban-climate emulator</a></b> · MSc thesis. A Residual U-Net turning 31 km weather data into 100 m city temperature maps for 100 European cities: <b>RMSE 2.00 → 1.23 °C</b>, a full city-year in <b>46 s</b> on one GPU.<br/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/U--Net-CNN-555" alt="U-Net"/> <img src="https://img.shields.io/badge/ERA5-xarray-2C7FB8" alt="ERA5"/>
     </td>
