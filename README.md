@@ -66,9 +66,25 @@
 
 ### 📂 More projects
 
-| Project | What it is |
-|---|---|
-| [CoAP over DTLS](https://github.com/Huntsama/contiki-dtls) | Secure messaging for constrained IoT devices (Contiki-NG) |
-| [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) | Neighbourhood platform in Java with custom data structures and Dijkstra routing |
-| [notlightbloo](https://github.com/Huntsama/notlightbloo) | Image hosting: JWT auth, REST API, MySQL, React |
-| [Calendar Task App](https://github.com/Huntsama/Calendar_Task_App) | Calendar and task app in React Native (Expo) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Huntsama/contiki-dtls">CoAP over DTLS</a></b> · secure messaging for constrained IoT devices.<br/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/Contiki--NG-IoT-555" alt="Contiki-NG"/> <img src="https://img.shields.io/badge/DTLS-security-2E7D32" alt="DTLS"/>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Huntsama/iNeighbourHelper">iNeighbourHelper</a></b> · neighbourhood help platform with custom data structures and Dijkstra routing.<br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Algorithms-555" alt="Algorithms"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Huntsama/notlightbloo">notlightbloo</a></b> · image hosting with JWT auth, a REST API and a MySQL backend.<br/>
+      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Huntsama/Calendar_Task_App">Calendar Task App</a></b> · calendar and task management mobile app.<br/>
+      <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo"/>
+    </td>
+  </tr>
+</table>
