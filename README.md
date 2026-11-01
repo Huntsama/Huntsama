@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/brussels-live">Brussels Live</a></b> · every STIB metro, tram and bus moving in real time, from a feed with no GPS. Positions estimated and scored against recorded data: <b>median error 15 m</b>.<br/>
+      <b><a href="https://github.com/Huntsama/brussels-live">Brussels Live</a></b> · every STIB metro, tram and bus moving in real time, from a feed with no GPS. Positions estimated and scored against recorded data: <b>median error 31 m</b> over 5,490 real readings.<br/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/deck.gl-WebGL-333" alt="deck.gl"/> <img src="https://img.shields.io/badge/MapLibre-396CB2" alt="MapLibre"/> <img src="https://img.shields.io/badge/GTFS-open_data-555" alt="GTFS"/><br/>
       <a href="https://live.jwds.me"><img src="https://img.shields.io/badge/▶_Open_the_live_map-10b981?style=for-the-badge" alt="Open the live map"/></a>
     </td>
@@ -24,6 +24,16 @@
       <b><a href="https://github.com/Huntsama/brussels-lakehouse">Brussels Lakehouse</a></b> · Azure lakehouse recording transit, air and grid data every 5 minutes; bronze → silver → gold with <b>27 data tests</b>. Is STIB on time?<br/>
       <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" alt="dbt"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" alt="DuckDB"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/><br/>
       <a href="https://lakehouse.jwds.me"><img src="https://img.shields.io/badge/▶_Open_the_dashboard-10b981?style=for-the-badge" alt="Open the dashboard"/></a>
+    </td>
+  </tr>
+</table>
+
+### 📈 Machine learning on Belgian open data
+<table>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Huntsama/brussels-transit-ml">Beating the grid operator's forecast</a></b> · day-ahead Belgian electricity demand from 11 years of Elia open data and weather: <b>8% more accurate than Elia's own forecast</b> (235 vs 256 MW MAE on 24,600 unseen hours). Also predicts next-hour STIB delays, 11% better than the best rule. Shipped as a tested FastAPI service in Docker, with MLflow and a champion/challenger rule.<br/>
+      <img src="https://img.shields.io/badge/LightGBM-555" alt="LightGBM"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
     </td>
   </tr>
 </table>
