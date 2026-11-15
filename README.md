@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/Huntsama/brussels-transit-ml">Beating the grid operator's forecast</a></b> · day-ahead Belgian electricity demand from 11 years of Elia open data and weather: <b>7% more accurate than Elia's own forecast</b>, using only weather forecasts issued two days ahead (241 vs 259 MW MAE on 22,870 unseen hours). Also predicts next-hour STIB delays, 11% better than the best rule. Shipped as a tested FastAPI service in Docker, with MLflow and a champion/challenger rule.<br/>
+      <b><a href="https://github.com/Huntsama/brussels-transit-ml">Beating the grid operator's forecast</a></b> · day-ahead Belgian electricity demand from 11 years of Elia open data and weather: <b>7% more accurate than Elia's own forecast</b>, using only weather forecasts issued two days ahead (241 vs 259 MW MAE on 22,870 unseen hours). Also predicts next-hour STIB delays, 8.5% better than the best rule over five weeks, retrained every week by a pipeline with a quality gate. Shipped as a tested FastAPI service in Docker, with MLflow and a champion/challenger rule.<br/>
       <img src="https://img.shields.io/badge/LightGBM-555" alt="LightGBM"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
     </td>
   </tr>
