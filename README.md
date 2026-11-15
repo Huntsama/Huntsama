@@ -11,90 +11,24 @@
   <a href="mailto:jawadshaissah@gmail.com"><img src="https://img.shields.io/badge/Email-say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-### 🚦 Live right now
+### Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/brussels-live">Brussels Live</a></b> · every STIB metro, tram and bus moving in real time, from a feed with no GPS. Positions estimated and scored against recorded data: <b>median error 31 m</b> over 5,490 real readings.<br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/deck.gl-WebGL-333" alt="deck.gl"/> <img src="https://img.shields.io/badge/MapLibre-396CB2" alt="MapLibre"/> <img src="https://img.shields.io/badge/GTFS-open_data-555" alt="GTFS"/><br/>
-      <a href="https://live.jwds.me"><img src="https://img.shields.io/badge/▶_Open_the_live_map-10b981?style=for-the-badge" alt="Open the live map"/></a>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/brussels-lakehouse">Brussels Lakehouse</a></b> · Azure lakehouse recording transit, air and grid data every 5 minutes; bronze → silver → gold with <b>27 data tests</b>. Is STIB on time?<br/>
-      <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white" alt="dbt"/> <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" alt="DuckDB"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" alt="Terraform"/><br/>
-      <a href="https://lakehouse.jwds.me"><img src="https://img.shields.io/badge/▶_Open_the_dashboard-10b981?style=for-the-badge" alt="Open the dashboard"/></a>
-    </td>
-  </tr>
-</table>
+**[Mimir](https://jwds.me/project#mimir)** &nbsp;<sub>LangGraph · RAG · MCP · Python · code private</sub><br/>A RAG assistant for Belgian residence and work rules that quotes its source for every claim, and says so when the documents don't. Hybrid search in LangGraph, also an MCP server. Right passage in the top 6 for **92%** of 64 held-out questions.
 
-### 📈 Machine learning on Belgian open data
-<table>
-  <tr>
-    <td valign="top">
-      <b><a href="https://github.com/Huntsama/brussels-transit-ml">Beating the grid operator's forecast</a></b> · day-ahead Belgian electricity demand from 11 years of Elia open data and weather: <b>7% more accurate than Elia's own forecast</b>, using only weather forecasts issued two days ahead (241 vs 259 MW MAE on 22,870 unseen hours). Also predicts next-hour STIB delays, 8.5% better than the best rule over five weeks, retrained every week by a pipeline with a quality gate. Shipped as a tested FastAPI service in Docker, with MLflow and a champion/challenger rule.<br/>
-      <img src="https://img.shields.io/badge/LightGBM-555" alt="LightGBM"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white" alt="MLflow"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-    </td>
-  </tr>
-</table>
+**[Beating the grid operator's forecast](https://github.com/Huntsama/brussels-transit-ml)** &nbsp;<sub>LightGBM · PyTorch · DuckDB · MLflow · GitHub Actions</sub><br/>Day-ahead Belgian electricity demand, **7% more accurate than Elia's own forecast** over 22,870 unseen hours, using only weather forecasts issued two days ahead. Next-hour STIB delays **8.5%** better than the best rule, retrained weekly behind a quality gate.
 
-### 🧠 Deep learning
+**[Urban-climate emulator](https://github.com/Huntsama/urbclim-emulator)** &nbsp;<sub>PyTorch · U-Net · ERA5 · xarray</sub><br/>MSc thesis. A Residual U-Net turning 31 km weather data into 100 m temperature maps for 100 European cities: RMSE **2.00 → 1.23 °C**, a city-year in **46 s** on one GPU.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/urbclim-emulator">Urban-climate emulator</a></b> · MSc thesis. A Residual U-Net turning 31 km weather data into 100 m city temperature maps for 100 European cities: <b>RMSE 2.00 → 1.23 °C</b>, a full city-year in <b>46 s</b> on one GPU.<br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/U--Net-CNN-555" alt="U-Net"/> <img src="https://img.shields.io/badge/ERA5-xarray-2C7FB8" alt="ERA5"/>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/image-super-resolution-edsr">Image super-resolution (EDSR)</a></b> · x4 super-resolution on DIV2K: <b>30.41 dB PSNR, +2.32 dB over bicubic</b>. Rebuilt the evaluation so every metric is computed on the same pixels.<br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/> <img src="https://img.shields.io/badge/Computer_vision-555" alt="Computer vision"/><br/><br/>
-      <b><a href="https://github.com/Huntsama/Weather_forecast">Weather forecasting with ML</a></b> · regression, random forests and neural networks correcting ensemble forecasts with station data.<br/>
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="scikit-learn"/> <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white" alt="pandas"/>
-    </td>
-  </tr>
-</table>
+**[Brussels Live](https://github.com/Huntsama/brussels-live)** &nbsp;<sub>JavaScript · deck.gl · MapLibre · GTFS</sub><br/>Every STIB metro, tram and bus moving in real time, from a feed with no GPS. Median position error **31 m**. [Open the map →](https://live.jwds.me)
 
-### ⚡ In short
+**[Brussels Lakehouse](https://github.com/Huntsama/brussels-lakehouse)** &nbsp;<sub>Azure · dbt · DuckDB · Terraform</sub><br/>Azure lakehouse recording transit, air and grid data every 5 minutes, bronze → silver → gold with **27 data tests**. [Open the dashboard →](https://lakehouse.jwds.me)
 
-- 🎓 MSc in Applied Computer Science, Vrije Universiteit Brussel (2026)
-- 📱 Shipping web and mobile apps since 2020 in React, Node.js and Flutter
-- 🚉 Live Brussels open-data projects: a real-time transit map and an Azure lakehouse
-- 🤖 Building with AI every day: LLMs, RAG, coding agents
-- 🗣️ Arabic · French · English · open to AI, data and software roles
+### Also
 
-### 🛠️ Tools
+[Image super-resolution (EDSR)](https://github.com/Huntsama/image-super-resolution-edsr) · [Weather forecasting](https://github.com/Huntsama/Weather_forecast) · [CoAP over DTLS](https://github.com/Huntsama/contiki-dtls) · [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) · [notlightbloo](https://github.com/Huntsama/notlightbloo) · [Calendar Task App](https://github.com/Huntsama/Calendar_Task_App)
 
-**ML & AI**<br/>
-<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn" alt="Python, PyTorch, TensorFlow, scikit-learn"/>
+### Tools
 
-**Data & cloud**<br/>
-<img src="https://skillicons.dev/icons?i=azure,terraform,postgres,mysql,githubactions,docker" alt="Azure, Terraform, PostgreSQL, MySQL, GitHub Actions, Docker"/>
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,azure,terraform,docker,githubactions,postgres,ts,react,nodejs,flutter,linux,git&perline=14" alt="Python, PyTorch, scikit-learn, Azure, Terraform, Docker, GitHub Actions, PostgreSQL, TypeScript, React, Node.js, Flutter, Linux, Git"/>
 
-**Software**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,flutter,dart,java,linux,git" alt="JavaScript, TypeScript, React, Node.js, Flutter, Dart, Java, Linux, Git"/>
-
-### 📂 More projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/contiki-dtls">CoAP over DTLS</a></b> · secure messaging for constrained IoT devices.<br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C"/> <img src="https://img.shields.io/badge/Contiki--NG-IoT-555" alt="Contiki-NG"/> <img src="https://img.shields.io/badge/DTLS-security-2E7D32" alt="DTLS"/>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/iNeighbourHelper">iNeighbourHelper</a></b> · neighbourhood help platform with custom data structures and Dijkstra routing.<br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/Algorithms-555" alt="Algorithms"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/notlightbloo">notlightbloo</a></b> · image hosting with JWT auth, a REST API and a MySQL backend.<br/>
-      <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-    </td>
-    <td width="50%" valign="top">
-      <b><a href="https://github.com/Huntsama/Calendar_Task_App">Calendar Task App</a></b> · calendar and task management mobile app.<br/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo"/>
-    </td>
-  </tr>
-</table>
+<sub>MSc Applied Computer Science, VUB 2026 · Arabic, French, English · open to AI, data and software roles in Belgium</sub>
