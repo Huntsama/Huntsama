@@ -13,7 +13,7 @@
 
 ### <img src="https://api.iconify.design/lucide/sparkles.svg?color=%2310b981" width="20" height="20" align="top" alt=""/>&nbsp; Selected work
 
-<img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%2310b981" width="24" height="24" align="top" alt=""/>&nbsp; **[Mimir](https://jwds.me/project#mimir)** &nbsp;<sub>LangGraph · RAG · MCP · Python · code private</sub><br/>A RAG assistant for Belgian residence and work rules that quotes its source for every claim, and says so when the documents don't. Hybrid search in LangGraph, also an MCP server. Right passage in the top 6 for **92%** of 64 held-out questions.
+<img src="https://api.iconify.design/pixelarticons/book-open.svg?color=%2310b981" width="24" height="24" align="top" alt=""/>&nbsp; **[Mimir](https://jwds.me/project#mimir)** &nbsp;<sub>LangGraph · RAG · MCP · Python · code private</sub><br/>A RAG assistant for Belgian residence and work rules that quotes its source for every claim, and says so when the documents don't. Hybrid search in LangGraph, also an MCP server so AI agents can use it as a tool.
 
 <img src="https://api.iconify.design/pixelarticons/zap.svg?color=%2310b981" width="24" height="24" align="top" alt=""/>&nbsp; **[Beating the grid operator's forecast](https://github.com/Huntsama/brussels-transit-ml)** &nbsp;<sub>LightGBM · PyTorch · DuckDB · MLflow · GitHub Actions</sub><br/>Day-ahead Belgian electricity demand, **7% more accurate than Elia's own forecast** over 22,870 unseen hours, using only weather forecasts issued two days ahead. Next-hour STIB delays **8.5%** better than the best rule, retrained weekly behind a quality gate.
 
