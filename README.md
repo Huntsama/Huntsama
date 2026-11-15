@@ -25,7 +25,7 @@
 
 ### <img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%2310b981" width="20" height="20" align="top" alt=""/>&nbsp; Also
 
-[Image super-resolution (EDSR)](https://github.com/Huntsama/image-super-resolution-edsr) · [Weather forecasting](https://github.com/Huntsama/Weather_forecast) · [CoAP over DTLS](https://github.com/Huntsama/contiki-dtls) · [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) · [notlightbloo](https://github.com/Huntsama/notlightbloo) · [Calendar Task App](https://github.com/Huntsama/Calendar_Task_App)
+[Image super-resolution (EDSR)](https://github.com/Huntsama/image-super-resolution-edsr) · [Real-time chat app (Python, WebSockets)](https://github.com/Huntsama/Chatapp) · [Weather forecasting](https://github.com/Huntsama/Weather_forecast) · [CoAP over DTLS](https://github.com/Huntsama/contiki-dtls) · [iNeighbourHelper](https://github.com/Huntsama/iNeighbourHelper) · [notlightbloo](https://github.com/Huntsama/notlightbloo) · [Calendar Task App](https://github.com/Huntsama/Calendar_Task_App)
 
 ### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2310b981" width="20" height="20" align="top" alt=""/>&nbsp; Tools
 
