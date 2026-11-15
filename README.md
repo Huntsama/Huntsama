@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jawad 👋</h1>
 
 <p align="center">
-  <b>AI Engineer</b> · Brussels 🇧🇪<br/>
+  <b>Software, Data &amp; AI Engineer</b> · Brussels 🇧🇪<br/>
   I train deep-learning models, build the data pipelines behind them, and ship the apps people use.
 </p>
 
